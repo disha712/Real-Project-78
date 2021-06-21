@@ -1,0 +1,16 @@
+#main_heading{
+    text-align:center;
+}
+#image_1{
+    height:550px;
+    width:450px;
+}
+body{
+    text-align:center;
+}
+#button_1{
+width:65px;
+height:35px;
+color: blue;
+background-color: violet;
+}
